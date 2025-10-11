@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yuvraj Singh</h1>
-<h3 align="left">SDE-1 at Spinny • Tech Enthusiast</h3>
+<h3 align="left">Software Engineer @Spinny • Tech Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yuvraj0028&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
