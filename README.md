@@ -40,7 +40,7 @@
 <a href="https://linkedin.com/in/yuvraj-singh-12b452228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-singh-12b452228" height="30" width="40" /></a>
 <a href="https://medium.com/@yuvraj0028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yuvraj0028" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yuvraj_singh_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvraj_singh_28" height="30" width="40" /></a>
-<a href="https://yuvraj-portfolio-28.netlify.app/" target="blank"><img align="center" src="https://img.freepik.com/free-vector/globe-grid-glyph-with-mouse-cursor_78370-4904.jpg?semt=ais_hybrid&w=740&q=80" alt="yuvraj_singh_28" height="30" width="40" /></a>
+<a href="https://yuvraj-portfolio-28.netlify.app/" target="blank"><img align="center" src="https://img.freepik.com/free-vector/globe-grid-glyph-with-mouse-cursor_78370-4904.jpg?semt=ais_hybrid" alt="yuvraj_singh_28" height="30" width="40" /></a>
 </p>
 
 ---
