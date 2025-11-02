@@ -12,8 +12,8 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/yuvi_0028" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yuvi_0028?logo=twitter&style=for-the-badge" alt="yuvi_0028" />
+  <a href="https://twitter.com/yuvi_0028" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40yuvi__0028-black?logo=x&style=for-the-badge" alt="Follow on X" />
   </a>
 </p>
 
