@@ -83,7 +83,7 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj0028&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yuvraj0028&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj0028&theme=dark&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj0028&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="50%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yuvraj0028&theme=dark&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj0028&theme=dark&hide_border=true&layout=compact" width="50%"/>
 </div>
