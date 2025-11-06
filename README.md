@@ -83,7 +83,26 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj0028&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="50%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yuvraj0028&theme=dark&hide_border=true" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj0028&theme=dark&hide_border=true&layout=compact" width="50%"/>
+
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj0028&theme=dark&hide_border=false&layout=compact" 
+       height="180" 
+       alt="Top Languages" 
+       style="margin: 10px;" />
+
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=yuvraj0028&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+       height="180" 
+       alt="GitHub Stats" 
+       style="margin: 10px;" />
+
+  <!-- GitHub Streak -->
+  <img 
+       src="https://nirzak-streak-stats.vercel.app/?user=yuvraj0028&theme=dark&hide_border=false" 
+       height="180" 
+       alt="GitHub Streak" 
+       style="margin: 10px;" />
 </div>
+
