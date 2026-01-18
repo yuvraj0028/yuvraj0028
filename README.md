@@ -86,7 +86,7 @@
 
   <!-- Top Languages -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj0028&theme=dark&hide_border=false&layout=compact" 
+       src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=dark&hide_border=false&layout=compact" 
        height="180" 
        alt="Top Languages" 
        style="margin: 10px;" />
@@ -100,7 +100,7 @@
 
   <!-- GitHub Streak -->
   <img 
-       src="https://github-readme-stats-nine-henna-42.vercel.app/?user=yuvraj0028&theme=dark&hide_border=false" 
+       src="https://nirzak-streak-stats.vercel.app/?user=yuvraj0028&theme=dark&hide_border=false" 
        height="180" 
        alt="GitHub Streak" 
        style="margin: 10px;" />
