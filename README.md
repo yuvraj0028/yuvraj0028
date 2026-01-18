@@ -93,14 +93,14 @@
 
   <!-- GitHub Stats -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=yuvraj0028&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+       src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
        height="180" 
        alt="GitHub Stats" 
        style="margin: 10px;" />
 
   <!-- GitHub Streak -->
   <img 
-       src="https://nirzak-streak-stats.vercel.app/?user=yuvraj0028&theme=dark&hide_border=false" 
+       src="https://github-readme-stats-nine-henna-42.vercel.app/?user=yuvraj0028&theme=dark&hide_border=false" 
        height="180" 
        alt="GitHub Streak" 
        style="margin: 10px;" />
