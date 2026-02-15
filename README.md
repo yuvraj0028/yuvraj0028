@@ -23,7 +23,8 @@
 - Backend Development  
 - Microservices  
 - Distributed Systems  
-- Scalable Architecture  
+- Scalable Architecture
+- GenAI, AI Agents, MCP Servers
 
 ### 📫 Reach me at  
 **yuvraj.work28@gmail.com**
