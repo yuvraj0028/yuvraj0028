@@ -100,11 +100,6 @@
        style="margin: 10px;" />
 
   <!-- GitHub Streak -->
-  <a 
-       src="https://nirzak-streak-stats.vercel.app/?user=yuvraj0028&theme=dark&hide_border=false" 
-       height="180" 
-       alt="GitHub Streak" 
-       style="margin: 10px;"> 
-  <a/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=yuvraj0028&theme=dark&hide_border=false)](https://git.io/streak-stats)
 </div>
 
