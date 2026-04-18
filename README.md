@@ -36,48 +36,146 @@
 
 ### 🔗 Connect with me
 
-<p align="left">
-<a href="https://twitter.com/yuvi_0028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvi_0028" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yuvraj-singh-12b452228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-singh-12b452228" height="30" width="40" /></a>
-<a href="https://medium.com/@yuvraj0028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yuvraj0028" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yuvraj_singh_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvraj_singh_28" height="30" width="40" /></a>
-<a href="https://yuvraj-portfolio-28.netlify.app/" target="blank"><img align="center" src="https://img.freepik.com/free-vector/globe-grid-glyph-with-mouse-cursor_78370-4904.jpg?semt=ais_hybrid" alt="yuvraj portfolio" height="30" width="30" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://twitter.com/yuvi_0028" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/><br>Twitter
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/yuvraj-singh-12b452228" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/><br>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@yuvraj0028" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30"/><br>Medium
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.leetcode.com/yuvraj_singh_28" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/><br>LeetCode
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://yuvraj-portfolio-28.netlify.app/" target="_blank">
+        <img src="https://img.freepik.com/free-vector/globe-grid-glyph-with-mouse-cursor_78370-4904.jpg" width="30"/><br>Portfolio
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://ctatus-prod.s3.eu-west-2.amazonaws.com/d1x892rl7n8nv9ufz26zbz8rsucq" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind css" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/><br>Angular
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/><br>Azure
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/><br>Bash
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/><br>Dart
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br>Django
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br>Express
+    </td>
+    <td align="center">
+      <img src="https://ctatus-prod.s3.eu-west-2.amazonaws.com/d1x892rl7n8nv9ufz26zbz8rsucq" width="40"/><br>Firebase
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br>Flutter
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JS
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/><br>Kafka
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>Linux
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/><br>Postgres
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/><br>Redis
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br>Spring
+    </td>
+    <td align="center">
+      <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="40"/><br>Tailwind
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TS
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
