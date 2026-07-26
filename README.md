@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://gh-trophy.cdnsoft.net/?username=yuvraj0028&theme=algolia&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=yuvraj0028&theme=algolia&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
 
