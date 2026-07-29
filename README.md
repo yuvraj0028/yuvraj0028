@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Yuvraj%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20@%20Spinny%20|%20Backend%20&%20Distributed%20Systems&descAlignY=55&descColor=c0caf5&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems...;Microservices+%7C+Distributed+Systems;Exploring+GenAI+%26+AI+Agentic+workflows;Currently+shipping+at+Spinny+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems...;Microservices+%7C+Distributed+Systems;Exploring+GenAI+%26+AI+Agentic+workflows;Currently+shipping+at+Spinny+%F0%9F%9A%80" alt="Typing SVG" width="90%" style="max-width:600px" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="70%" style="max-width:450px">
 
 </div>
 
@@ -23,34 +23,11 @@
 
 I'm a backend-focused software engineer currently building robust fintech systems and high-throughput loan funnels at **Spinny**. I love working on distributed systems, low-latency microservices, and exploring cutting-edge GenAI architectures & agentic workflows.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
+**🚀 Backend Engineering** — Microservices, Distributed Systems, High-throughput APIs
 
-### 🚀
-**Backend Engineering**
-<br/>
-<sub>Microservices, Distributed Systems, High-throughput APIs</sub>
+**⚡ Performance & Scale** — Redis caching, Kafka event streaming, AWS optimization
 
-</td>
-<td width="33%" valign="top" align="center">
-
-### ⚡
-**Performance & Scale**
-<br/>
-<sub>Redis caching, Kafka event streaming, AWS optimization</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🤖
-**GenAI & AI Agents**
-<br/>
-<sub>MCP Servers, LLM integrations, Agentic workflows, RAG</sub>
-
-</td>
-</tr>
-</table>
+**🤖 GenAI & AI Agents** — MCP Servers, LLM integrations, Agentic workflows, RAG
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
@@ -58,8 +35,8 @@ I'm a backend-focused software engineer currently building robust fintech system
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,ts,js,nodejs,express,angular,react,flutter,dart&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,linux,git,azure,bash,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,ts,js,nodejs,express,angular,react,flutter,dart&theme=dark" style="max-width:100%"/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,linux,git,azure,bash,tailwind&theme=dark" style="max-width:100%"/>
 
 </div>
 
@@ -67,38 +44,25 @@ I'm a backend-focused software engineer currently building robust fintech system
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Chat Forge
+**🔹 Chat Forge**
 Create projects, configure agents with custom prompts, upload files for context, and chat with your AI agents.
-
 `Django` `Groq AI` `LLM Agents`
 
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Image Similarity Library
+**🔹 Image Similarity Library**
 Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for rapid visual data deduplication.
-
 `Java` `BK-Tree` `Perceptual Hashing`
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&card_width=380&text_bold=false" alt="GitHub Stats" width="380" height="195" style="max-width:45%" />
+  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&card_width=380" alt="Top Languages" width="380" height="195" style="max-width:45%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" style="max-width:480px" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
@@ -106,7 +70,7 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj0028&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj0028&theme=tokyo-night&hide_border=true&area=true" width="95%" style="max-width:100%" alt="Activity Graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
@@ -118,6 +82,7 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
     src="https://trophy.ryglcloud.net/?username=yuvraj0028&theme=nord&no-bg=true&no-frame=true&column=4&margin-w=8&margin-h=8&row=2"
     alt="GitHub Trophies"
     width="65%"
+    style="max-width:100%"
   />
 </p>
 
@@ -140,8 +105,6 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 <div align="center">
 
 💭 <b>Fun Fact:</b> NASA landed on the moon with just <b>4KB of RAM</b> 🚀
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-8d1b9c8c3fb2.gif" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
 
