@@ -111,8 +111,6 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 &nbsp;&nbsp;
 <a href="https://twitter.com/yuvi_0028" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" width="150" height="32" style="width:150px;max-width:28%;height:32px;" /></a>
 
-<br/><br/>
-
 <a href="https://medium.com/@yuvraj0028" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="150" height="32" style="width:150px;max-width:28%;height:32px;" /></a>
 &nbsp;&nbsp;
 <a href="https://www.leetcode.com/yuvraj_singh_28" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="150" height="32" style="width:150px;max-width:28%;height:32px;" /></a>
