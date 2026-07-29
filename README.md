@@ -64,7 +64,7 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="780" height="195" style="max-width:45%; height:auto;" />
+  <img src="https://streak-stats.demolab.com?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="780" height="195" style="max-width:90%; height:auto;" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
@@ -98,15 +98,15 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 <p align="center">
   <a href="https://yuvraj-portfolio-28.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yuvraj-singh-12b452228" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yuvraj-singh-12b452228" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%E2%A0%80-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/yuvi_0028" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://twitter.com/yuvi_0028" target="_blank"><img src="https://img.shields.io/badge/Twitter%E2%A0%80%E2%A0%80-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://medium.com/@yuvraj0028" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@yuvraj0028" target="_blank"><img src="https://img.shields.io/badge/Medium%E2%A0%80%E2%A0%80%E2%A0%80-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/yuvraj_singh_28" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.leetcode.com/yuvraj_singh_28" target="_blank"><img src="https://img.shields.io/badge/LeetCode%E2%A0%80-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:yuvraj.work28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:yuvraj.work28@gmail.com"><img src="https://img.shields.io/badge/Email%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
