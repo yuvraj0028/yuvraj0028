@@ -199,7 +199,7 @@
 
   <!-- GitHub Streak -->
   <img 
-       src="https://streak-stats.demolab.com/?user=yuvraj0028&theme=dark&hide_border=false" 
+       src="https://streak-stats.demolab.com/?user=yuvraj0028?theme=dark&hide_border=false" 
        height="180" 
        alt="GitHub Streak" 
        style="margin: 10px;" />
