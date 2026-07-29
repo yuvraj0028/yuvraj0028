@@ -1,202 +1,141 @@
-<h1 align="left">Hi 👋, I'm Yuvraj Singh</h1>
-<h3 align="left">Software Engineer @Spinny • Tech Enthusiast</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yuvraj0028&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Yuvraj%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20@%20Spinny%20|%20Backend%20&%20Distributed%20Systems&descAlignY=55&descColor=c0caf5&descSize=18" width="100%"/>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=yuvraj0028&theme=algolia&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems...;Microservices+%7C+Distributed+Systems;Exploring+GenAI+%26+AI+Agentic+workflows;Currently+shipping+at+Spinny+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left">
-  <a href="https://twitter.com/yuvi_0028" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%40yuvi__0028-black?logo=x&style=for-the-badge" alt="Follow on X" />
-  </a>
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=yuvraj0028&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile views" />
+<a href="https://twitter.com/yuvi_0028" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-%40yuvi__0028-1a1b27?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
 
-### 💬 Ask me about
-- Backend Development  
-- Microservices  
-- Distributed Systems  
-- Scalable Architecture
-- GenAI, AI Agents, MCP Servers
+<br/><br/>
 
-### 📫 Reach me at  
-**yuvraj.work28@gmail.com**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
 
-### ⚡ Fun Fact  
-> NASA landed on the moon with just **4KB of RAM**. 🚀
+</div>
 
----
+<br/>
 
-### 🔗 Connect with me
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://twitter.com/yuvi_0028" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/><br>Twitter
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/yuvraj-singh-12b452228" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/><br>LinkedIn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://medium.com/@yuvraj0028" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30"/><br>Medium
-      </a>
-    </td>
-  </tr>
+## 💡 About Me
 
-  <tr>
-    <td align="center">
-      <a href="https://www.leetcode.com/yuvraj_singh_28" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/><br>LeetCode
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://yuvraj-portfolio-28.netlify.app/" target="_blank">
-        <img src="https://img.freepik.com/free-vector/globe-grid-glyph-with-mouse-cursor_78370-4904.jpg" width="30"/><br>Portfolio
-      </a>
-    </td>
-    <td></td>
-  </tr>
+I'm a backend-focused software engineer currently building robust fintech systems and high-throughput loan funnels at **Spinny**. I love working on distributed systems, low-latency microservices, and exploring cutting-edge GenAI architectures & agentic workflows.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🚀
+**Backend Engineering**
+<br/>
+<sub>Microservices, Distributed Systems, High-throughput APIs</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚡
+**Performance & Scale**
+<br/>
+<sub>Redis caching, Kafka event streaming, AWS optimization</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖
+**GenAI & AI Agents**
+<br/>
+<sub>MCP Servers, LLM integrations, Agentic workflows</sub>
+
+</td>
+</tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/><br>Angular
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/><br>Azure
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/><br>Bash
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/><br>Dart
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br>Django
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br>Express
-    </td>
-    <td align="center">
-      <img src="https://ctatus-prod.s3.eu-west-2.amazonaws.com/d1x892rl7n8nv9ufz26zbz8rsucq" width="40"/><br>Firebase
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br>Flutter
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,ts,js,nodejs,express,angular,react,flutter,dart&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,linux,git,azure,bash,tailwind&theme=dark" />
 
-  <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JS
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/><br>Kafka
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>Linux
-    </td>
-  </tr>
+</div>
 
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/><br>Postgres
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React
-    </td>
-  </tr>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/><br>Redis
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br>Spring
-    </td>
-    <td align="center">
-      <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="40"/><br>Tailwind
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TS
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Chat Forge
+A minimal, production-grade chatbot platform built with Django + Groq AI. Create projects, configure agents with custom prompts, upload files for context, and chat with your AI agents.
+
+`Django` `Groq AI` `LLM Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Image Similarity Library
+Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for rapid visual data deduplication.
+
+`Java` `BK-Tree` `Perceptual Hashing`
+
+</td>
+</tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="left">
+<p align="center">
+  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="165" />
+</p>
 
-  <!-- Top Languages -->
-  <img 
-       src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=dark&hide_border=false&layout=compact" 
-       height="180" 
-       alt="Top Languages" 
-       style="margin: 10px;" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-  <!-- GitHub Stats -->
-  <img 
-       src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
-       height="180" 
-       alt="GitHub Stats" 
-       style="margin: 10px;" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-<!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj0028&theme=dark" height="180" alt="GitHub Streak" />
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj0028&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=yuvraj0028&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=8&margin-h=8&row=2" alt="Trophies" width="65%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://yuvraj-portfolio-28.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yuvraj-singh-12b452228" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yuvi_0028" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@yuvraj0028" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/yuvraj_singh_28" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:yuvraj.work28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+💭 <b>Fun Fact:</b> NASA landed on the moon with just <b>4KB of RAM</b> 🚀
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-8d1b9c8c3fb2.gif" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
+
 </div>
