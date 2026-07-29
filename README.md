@@ -198,13 +198,7 @@
        style="margin: 10px;" />
 
 <!-- GitHub Streak -->
-  <picture>
-  <!-- URL goes in 'srcset' here -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yuvraj0028&theme=dark&v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yuvraj0028&theme=default&v=1">
   
-  <!-- Fallback URL goes in 'src' here -->
-  <img src="https://streak-stats.demolab.com/?user=yuvraj0028&theme=default&v=1" alt="GitHub Streak">
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com/?user=yuvraj0028&theme=dark&v=1)
 
 </div>
