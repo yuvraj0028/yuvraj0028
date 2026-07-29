@@ -198,7 +198,9 @@
        style="margin: 10px;" />
 
 <!-- GitHub Streak -->
- 
-<img src="https://streak-stats.demolab.com/?user=yuvraj0028" alt="GitHub Streak" />
-
+  <img 
+       src="https://streak-stats.demolab.com/?user=yuvraj0028&theme=dark&hide_border=true" 
+       height="180" 
+       alt="GitHub Streak" 
+       style="margin: 10px;" />
 </div>
