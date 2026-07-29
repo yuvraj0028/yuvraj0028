@@ -46,7 +46,7 @@ I'm a backend-focused software engineer currently building robust fintech system
 ### 🤖
 **GenAI & AI Agents**
 <br/>
-<sub>MCP Servers, LLM integrations, Agentic workflows</sub>
+<sub>MCP Servers, LLM integrations, Agentic workflows, RAG</sub>
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ I'm a backend-focused software engineer currently building robust fintech system
 <td width="50%" valign="top">
 
 ### 🔹 Chat Forge
-A minimal, production-grade chatbot platform built with Django + Groq AI. Create projects, configure agents with custom prompts, upload files for context, and chat with your AI agents.
+Create projects, configure agents with custom prompts, upload files for context, and chat with your AI agents.
 
 `Django` `Groq AI` `LLM Agents`
 
@@ -114,10 +114,17 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=yuvraj0028&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=8&margin-h=8&row=2" alt="Trophies" width="65%" />
+  <img
+    src="https://trophy.ryglcloud.net/?username=yuvraj0028&theme=nord&no-bg=true&no-frame=true&column=4&margin-w=8&margin-h=8&row=2"
+    alt="GitHub Trophies"
+    width="65%"
+  />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"
+  width="100%"
+/>
 
 ## 📬 Let's Connect
 
