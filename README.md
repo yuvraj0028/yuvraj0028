@@ -199,6 +199,6 @@
 
 <!-- GitHub Streak -->
  
-<img src="https://streak-stats.demolab.com/?user=yuvraj0028&v=1" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=yuvraj0028" alt="GitHub Streak" />
 
 </div>
