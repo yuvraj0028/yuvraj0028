@@ -197,11 +197,10 @@
        alt="GitHub Stats" 
        style="margin: 10px;" />
 
-  <!-- GitHub Streak -->
+ <!-- GitHub Streak -->
+<div align="center">
   <img 
-       src="https://streak-stats.demolab.com/?user=yuvraj0028&theme=dark&hide_border=true" 
-       height="180" 
-       alt="GitHub Streak" 
-       style="margin: 10px;" />
+    src="https://streak-stats.demolab.com/?user=yuvraj0028&theme=dark&hide_border=true&v=1" 
+    height="180" 
+    alt="GitHub Streak" />
 </div>
-
