@@ -56,9 +56,8 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&card_width=380&text_bold=false" alt="GitHub Stats" width="380" height="195" style="max-width:45%; height:auto;" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&card_width=380" alt="Top Languages" width="380" height="195" style="max-width:45%; height:auto;" />
+  <a href="https://github.com/yuvraj0028"><img src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&card_width=380&text_bold=false" alt="GitHub Stats" width="48%" style="min-width: 300px;" /></a>
+  <a href="https://github.com/yuvraj0028"><img src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&card_width=380" alt="Top Languages" width="48%" style="min-width: 300px;" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
@@ -66,7 +65,7 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="780" height="195" style="width:100%; max-width:780px; height:auto;" />
+  <img src="https://streak-stats.demolab.com?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="780" style="max-width: 100%; height: auto;" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
@@ -74,7 +73,7 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj0028&theme=tokyo-night&hide_border=true&area=true" width="95%" style="max-width:100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj0028&theme=tokyo-night&hide_border=true&area=true" width="100%" style="max-width: 900px; height: auto;" alt="Activity Graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
@@ -82,13 +81,7 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 🏆 Trophies
 
 <p align="center">
-  <img
-    src="https://trophy.ryglcloud.net/?username=yuvraj0028&theme=gruvbox&no-bg=true&no-frame=true&column=4&margin-w=8&margin-h=8&row=2#gh-dark-mode-only"
-    alt="GitHub Trophies"
-    width="65%"
-    style="max-width:100%"
-  />
-
+  <img src="https://trophy.ryglcloud.net/?username=yuvraj0028&theme=gruvbox&no-bg=true&no-frame=true&column=4&margin-w=8&margin-h=8&row=2#gh-dark-mode-only" alt="GitHub Trophies" width="700" style="max-width: 100%; height: auto;" />
 </p>
 
 <img
