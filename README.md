@@ -56,8 +56,15 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/yuvraj0028"><img src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&card_width=380&text_bold=false" alt="GitHub Stats" width="48%" style="min-width: 300px;" /></a>
-  <a href="https://github.com/yuvraj0028"><img src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&card_width=380" alt="Top Languages" width="48%" style="min-width: 300px;" /></a>
+  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=yuvraj0028&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&card_width=780&text_bold=false" alt="GitHub Stats" width="780" style="max-width: 100%; height: auto;" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=yuvraj0028&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&card_width=780" alt="Top Languages" width="780" style="max-width: 100%; height: auto;" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
