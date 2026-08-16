@@ -72,7 +72,7 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="780" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-streak-stats-4rl8.vercel.app/?user=yuvraj0028&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="780" style="max-width: 100%; height: auto;" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
