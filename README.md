@@ -80,7 +80,7 @@ Lightweight Java utility leveraging BK-Tree indexing and perceptual hashing for 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj0028&theme=tokyo-night&hide_border=true&area=true" width="100%" style="max-width: 900px; height: auto;" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-pi-swart.vercel.app/graph?username=yuvraj0028&theme=tokyo-night&hide_border=true&area=true" width="100%" style="max-width: 900px; height: auto;" alt="Activity Graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
