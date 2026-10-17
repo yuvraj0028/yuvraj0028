@@ -6,7 +6,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yuvraj0028&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile views" />&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/yuvi_0028" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-%40yuvi__0028-1a1b27?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
+<!-- <img src="https://komarev.com/ghpvc/?username=yuvraj0028&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile views" />
+&nbsp;&nbsp;&nbsp; -->
+<a href="https://twitter.com/yuvi_0028" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-%40yuvi__0028-1a1b27?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
 
 <br/><br/>
 
